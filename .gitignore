@@ -1,0 +1,94 @@
+# Windows thumbnail db
+Thumbs.db
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# files for the dex VM
+*.dex
+
+# generated files
+bin/
+gen/
+out/
+build/
+obj/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.factorypath
+.project
+.settings
+eclipsebin
+
+# Windows thumbnail db
+.DS_Store
+
+# Android Studio / IntelliJ IDEA
+*.iws
+local.properties
+# IDEA/Android Studio project files, because
+# the project can be imported from settings.gradle
+.idea
+
+/*/local.properties
+/*/out
+/*/*/build/
+/*/*/production
+*.iml
+classes
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build/
+/captures
+
+# Old-style IDEA project files
+*.ipr
+*.iws
+*.swp
+
+# Local IDEA workspace
+.idea/workspace.xml
+
+# Gradle cache
+.gradle
+gradle/
+
+# Sandbox stuff
+_sandbox
+
+#Linux
+*~
+\#*\#
+
+/*/*/target
+log.txt
+
+/apk/*
+/apkExtractor_log.txt
